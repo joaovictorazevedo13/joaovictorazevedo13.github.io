@@ -6,4 +6,4 @@
 <a href="https://joaovictorazevedo13.github.io/site-cordel/" target="_blank">Site Cordel</a>
 
 <h1>Javascript</h1>
-<a href="https://joaovictorazevedo13.github.io//" target="_blank">Contador</a>
+<a href="https://joaovictorazevedo13.github.io/contador/" target="_blank">Contador</a>
